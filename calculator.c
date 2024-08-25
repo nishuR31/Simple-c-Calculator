@@ -13,7 +13,7 @@ int main(void) {
         printf("Input your 2nd number (if needed; otherwise enter 0): ");
         scanf("%lf", &b); // Read the second number from user input (or 0 if not needed)
 
-        printf("Enter your operator (+, -, *, %, /, ^, e (exp), s (sqrt), c (cos), t (tan), i (sin), A (asin), C (acos), T (atan), L (log), l (log10)): ");
+        printf("Enter your operator (+, -, *, %%, /, ^, e (exp), s (sqrt), c (cos), t (tan), i (sin), A (asin), C (acos), T (atan), L (log), l (log10)): ");
         scanf(" %c", &operator); // Read the operator from user input, note the space to consume any newline character
 
         switch (operator) {  // Use switch-case to handle different operations
@@ -126,7 +126,7 @@ int main(void) {
                 break;
 
             default:
-                printf("\nInvalid operator. Please use one of +, -, *, %, /, ^, e (exp), s (sqrt), c (cos), t (tan), i (sin), A (asin), C (acos), T (atan), L (log), l (log10).\n");
+                printf("\nInvalid operator. Please use one of +, -, *, %%, /, ^, e (exp), s (sqrt), c (cos), t (tan), i (sin), A (asin), C (acos), T (atan), L (log), l (log10).\n");
                 break; // Handle invalid operator input
         }
 
