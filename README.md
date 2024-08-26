@@ -59,6 +59,10 @@ This is a versatile calculator implemented in C that supports a wide range of ma
 ## Contributing
 Feel free to fork the repository and submit pull requests for improvements or new features. Issues and feedback are also welcome.
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nishuR31&repo=Simple-c-Calculator&show_owner=true&theme=midnight-purple)](https://github.com/nishuR31)
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
