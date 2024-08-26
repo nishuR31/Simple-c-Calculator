@@ -78,5 +78,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or collaborations, please reach out to me at:
 
 - Email: [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com)
-- GitHub: [nishur31](https://github.com/nishur31)
+- GitHub: [nishur31](https://github.com/nishuR31)
 
